@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi 👋, I'm Aliza Khan
 
-<!--
-**AlizaKhan740/AlizaKhan740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **Data Analyst** passionate about turning raw data into actionable insights.  
+I love working with data to solve business problems and create visual stories.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+
+| Skill / Tool        | Description |
+|--------------------|-------------|
+| **Python**          | For data analysis, scripting, and automation using libraries like Pandas, NumPy, and Matplotlib. |
+| **SQL**             | Querying and managing relational databases efficiently. |
+| **Excel**           | Advanced data manipulation, formulas, and pivot tables. |
+| **Power BI**        | Creating interactive dashboards and visual reports. |
+| **Tableau**         | Data visualization and storytelling with actionable insights. |
+| **R**               | Statistical analysis and predictive modeling. |
+| **Data Cleaning**   | Cleaning and preprocessing raw data for accurate analysis. |
+| **Data Visualization** | Creating charts, graphs, and dashboards for clear insights. |
+
+---
+## Projects
+**Bank Analytics Dashboard**  
+An interactive dashboard analyzing customer transactions, trends, and risk factors using **Python, SQL, and Power BI**. 
+[View Project](https://github.com/AlizaKhan740/Bank-Analytics-Project/tree/main)
+
+**Zomato Data Analysis**  
+  Insights into restaurant ratings, cuisines, and city-wise trends using **Python, Pandas, and Tableau**.  
+  [View Project](https://github.com/AlizaKhan740/Zomato-Data-Analytics)
+
+___
+## 📊 Analytics Capabilities
+- **Data-Driven Insights** – Transform raw data into actionable insights that guide business decisions.  
+- **Data Cleaning & Preprocessing** – Ensure accuracy by cleaning, validating, and structuring data.  
+- **Advanced Analytics** – Conduct statistical analysis, identify trends, and build predictive models.  
+- **Data Visualization** – Present complex data clearly through interactive dashboards and charts.  
+- **SQL & Database Management** – Efficiently query and manage relational databases to extract meaningful data.  
+- **Business Problem Solving** – Apply analytical thinking to solve real-world business challenges.  
+- **Automation & Efficiency** – Streamline workflows using Python, R, and Excel for repetitive tasks.  
+- **Collaboration & Reporting** – Communicate insights effectively to stakeholders via reports and presentations.
+
+---
+## 🌐 Contact
+📧 Email: alizakhan0187@gmail.com  
+- 💼 LinkedIn: [Your LinkedIn](http://www.linkedin.com/in/aliza-khan-b37536382)
