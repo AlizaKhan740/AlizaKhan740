@@ -21,16 +21,17 @@ I love working with data to solve business problems and create visual stories.
 
 ---
 ## Projects
-**Bank Analytics Dashboard**  
+# **Bank Analytics Dashboard**  
 An interactive dashboard analyzing customer transactions, trends, and risk factors using **Python, SQL, and Power BI**. 
 [View Project](https://github.com/AlizaKhan740/Bank-Analytics-Project/tree/main)
 
-**Zomato Data Analysis**  
+# **Zomato Data Analysis**  
   Insights into restaurant ratings, cuisines, and city-wise trends using **Python, Pandas, and Tableau**.  
   [View Project](https://github.com/AlizaKhan740/Zomato-Data-Analytics)
 
-**Customer Churn Analysis**
- This project performs Customer Churn Analysis using Python, focusing on understanding patterns that lead customers to leave a service. Using    Exploratory Data Analysis (EDA), we identify key trends, visualize data insights, and provide actionable recommendations to reduce churn.
+# **Customer Churn Analysis** 📊
+ ## Overview
+This project performs **Customer Churn Analysis** using Python, focusing on understanding patterns that lead customers to leave a service. Using **Exploratory Data Analysis (EDA)**, we identify key trends, visualize data insights, and provide actionable recommendations to reduce churn.
   [view Project](https://github.com/AlizaKhan740/Customer-Churn-Analysis)
 ___
 ## 📊 Analytics Capabilities
