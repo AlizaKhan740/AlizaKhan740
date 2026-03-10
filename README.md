@@ -29,8 +29,8 @@ An interactive dashboard analyzing customer transactions, trends, and risk facto
   Insights into restaurant ratings, cuisines, and city-wise trends using **Python, Pandas, and Tableau**.  
   [View Project](https://github.com/AlizaKhan740/Zomato-Data-Analytics)
 
-** Customer Churn Analysis**
-  This project performs Customer Churn Analysis using Python, focusing on understanding patterns that lead customers to leave a service. Using Exploratory Data Analysis (EDA), we identify key trends, visualize data insights, and provide actionable recommendations to reduce churn.
+**Customer Churn Analysis**
+ This project performs Customer Churn Analysis using Python, focusing on understanding patterns that lead customers to leave a service. Using    Exploratory Data Analysis (EDA), we identify key trends, visualize data insights, and provide actionable recommendations to reduce churn.
   [view Project](https://github.com/AlizaKhan740/Customer-Churn-Analysis)
 ___
 ## 📊 Analytics Capabilities
