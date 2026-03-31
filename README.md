@@ -15,7 +15,6 @@ I love working with data to solve business problems and create visual stories.
 | **Excel**           | Advanced data manipulation, formulas, and pivot tables. |
 | **Power BI**        | Creating interactive dashboards and visual reports. |
 | **Tableau**         | Data visualization and storytelling with actionable insights. |
-| **R**               | Statistical analysis and predictive modeling. |
 | **Data Cleaning**   | Cleaning and preprocessing raw data for accurate analysis. |
 | **Data Visualization** | Creating charts, graphs, and dashboards for clear insights. |
 
